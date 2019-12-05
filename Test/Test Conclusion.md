@@ -1,7 +1,7 @@
-# Test results
+# Результаты теста
 
 
-| № | Purpose/name | Action | Expected result | Real result | Mark | 
+| № | Назначение/имя | Действие | Ожидаемый результат | Реальный результат | Отметка | 
 | :------: | :------: | :------: | :------: | :------: | :------: |
 | 1 | The ability to pick up weapons | press the E key next to the weapon | Pick up a weapon if it is not in the inventory | Pick up weapon | Success |
 | 2 | The presence of opponents who can kill the user and whom the user can kill | Shooting at the enemy; enemy attacks on the player | Dealing damage to an enemy, killing an enemy, dealing damage to a player and killing a player | Dealing damage to an enemy, killing an enemy, dealing damage to a player and killing a player | Success |
